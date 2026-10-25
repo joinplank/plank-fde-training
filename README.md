@@ -26,4 +26,5 @@ move later.
 
 Every verified day appears on your public profile at
 `joinplank.com/fde/<your-github-login>`, with what you shipped and the skills
-it added.
+it added. The repository description links to it; add the same link as the
+repository's website so it shows under the name.
